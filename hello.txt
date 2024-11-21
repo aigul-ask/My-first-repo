@@ -1,2 +1,2 @@
 Hello, World
-this is the second line
+This is second line.
